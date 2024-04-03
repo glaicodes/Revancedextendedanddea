@@ -10,7 +10,7 @@ build-mode = "both"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
 included-patches = "'Add splash animation' 'MaterialYou'"
 patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-intrgrations"
+integrations-source = "anddea/revanced-integrations"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
