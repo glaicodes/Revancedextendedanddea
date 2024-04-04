@@ -13,12 +13,15 @@ patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+arch = "arm-v7a"
 
 [Music]
-build-mode = "both"
+build-mode = "module"
 excluded-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music'"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-arch = "both"
+arch = "arm-v7a"
 
 [Reddit]
 enabled = false
