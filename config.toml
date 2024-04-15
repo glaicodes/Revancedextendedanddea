@@ -14,6 +14,7 @@ integrations-source = "anddea/revanced-integrations"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 arch = "arm-v7a"
 patches-version = "beta"
+integrations-version = "beta"
 
 [Music]
 build-mode = "module"
@@ -23,6 +24,7 @@ integrations-source = "anddea/revanced-integrations"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 arch = "arm-v7a"
 patches-version = "beta"
+integrations-version = "beta"
 
 [Reddit]
 enabled = false
