@@ -1,5 +1,5 @@
-YouTube: 19.14.43  
 Music: 6.49.53  
+YouTube: 19.14.43  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
 
 [revanced-extended-magisk-module](https://github.com/MatadorProBr/revanced-extended-magisk-module)  
