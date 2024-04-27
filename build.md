@@ -1,11 +1,11 @@
+YouTube: 19.16.38  
 Music: 6.49.53  
-YouTube: 19.14.43  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
 
 [revanced-extended-magisk-module](https://github.com/MatadorProBr/revanced-extended-magisk-module)  
 
 Changelog:  
 CLI: inotia00/revanced-cli-4.4.1-all.jar  
-Integrations: anddea/revanced-integrations-0.151.0-dev.10.apk  
-Patches: anddea/revanced-patches-2.224.0-dev.13.jar  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/vdev.13)  
+Integrations: anddea/revanced-integrations-0.151.1-dev.1.apk  
+Patches: anddea/revanced-patches-2.224.1-dev.3.jar  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/vdev.3)  
